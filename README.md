@@ -57,14 +57,29 @@ vote/
 
 ## Screenshots
 
-### Login Page
-![Login Page](screenshots/signin.png)
-![Login Page](screenshots/admin-login.png)
-![Login Page](screenshots/registration.png)
-### Voting Dashboard
-![Voting Dashboard](screenshots/admin-result.png)
-![Voting Dashboard](screenshots/candidate-page.png)
-![Voting Dashboard](screenshots/voting-tally.png)
+### User Authentication
+
+#### Sign In Page
+![Sign In](screenshots/signin.png)
+
+#### Registration Page
+![Registration](screenshots/registration.png)
+
+#### Admin Login
+![Admin Login](screenshots/admin-login.png)
+
+---
+
+### Voting System
+
+#### Candidate Selection Page
+![Candidate Page](screenshots/candidate-page.png)
+
+#### Voting Result Dashboard
+![Voting Result](screenshots/admin-result.png)
+
+#### Voting Tally
+![Voting Tally](screenshots/voting-tally.png)
 
 
 
