@@ -41,7 +41,7 @@ The application allows registered users to log in and cast votes digitally, whil
 ## Project Structure
 
 ```bash
-vote/
+php-online-voting-system/
 │
 ├── admin/                 # Admin panel files
 ├── css/                   # Stylesheets
@@ -90,7 +90,7 @@ vote/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mayeshakader/vote.git
+git clone https://github.com/mayeshakader/php-online-voting-system.git
 ```
 
 ### 2. Configure Environment
@@ -130,7 +130,7 @@ htdocs/
 Start Apache and MySQL from XAMPP, then open:
 
 ```bash
-http://localhost/vote
+http://localhost/php-online-voting-system
 ```
 
 ---
