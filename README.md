@@ -135,16 +135,7 @@ http://localhost/vote
 
 ---
 
-## Future Improvements
 
-- Email verification system
-- OTP-based authentication
-- Live result visualization
-- Improved UI/UX design
-- Election scheduling feature
-- Enhanced security mechanisms
-
----
 
 ## Learning Outcomes
 
@@ -157,17 +148,7 @@ This project helped in understanding:
 - Admin panel management
 - Client-server interaction
 
----
 
-
-Interested in:
-- Software Development
-- AI Research
-- NLP
-- Data Mining
-- Web & Mobile Applications
-
----
 
 ## License
 
